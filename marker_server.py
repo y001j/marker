@@ -1,4 +1,4 @@
-from marker.scripts.server import server_cli
+from marker.scripts.rocky_server import server_rocky
 
 if __name__ == "__main__":
-    server_cli()
+    server_rocky()
